@@ -1,6 +1,6 @@
-# Livro de receitas :man cook
+# Livro de receitas :mancook:
 
-Olá, bem vindo ao meu livro de receitas :wave
+Olá, bem vindo ao meu livro de receitas :wave:
 
  - Strogonoff de Frango
 
